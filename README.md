@@ -8,13 +8,13 @@
 
 - react 组件开发
 
-  - [React render prop Vs Vue slot-scope](https://github.com/Nbsaw/notes/issues/53)
-
   - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
 
   - [React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)
 
 - react 相关
+
+  - [React render prop Vs Vue slot-scope](https://github.com/Nbsaw/notes/issues/53)
 
   - [React Render 相关](https://github.com/Nbsaw/notes/issues/45)
 

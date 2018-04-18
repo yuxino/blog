@@ -1,79 +1,87 @@
-## react 组件开发
+## 记录 📝
 
-[React-scratch](https://github.com/Nbsaw/notes/issues/51)
+emmmm 这里应该要放一句比较有逼格的东西 ... 点这里可以看博客[经历了什么](https://github.com/Nbsaw/notes/blob/master/CHANGELOG)
 
-[React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)
+### 目录
 
-## react 相关
+- react 组件开发
 
-[React Render 相关](https://github.com/Nbsaw/notes/issues/45)
+  - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
 
-[Container Components](https://github.com/Nbsaw/notes/issues/44)
+  - [React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)
 
-[ref={callback} or ref ={string} ? ](https://github.com/Nbsaw/notes/issues/43)
+- react 相关
 
-[https://github.com/Nbsaw/notes/issues/41](https://github.com/Nbsaw/notes/issues/41)
+  - [React Render 相关](https://github.com/Nbsaw/notes/issues/45)
 
-## redux 相关
+  - [Container Components](https://github.com/Nbsaw/notes/issues/44)
 
-[Hello Redu](https://github.com/Nbsaw/notes/issues/46)
-[reselect - selector library for redux](https://github.com/Nbsaw/notes/issues/42)
+  - [ref={callback} or ref ={string} ? ](https://github.com/Nbsaw/notes/issues/43)
 
-## rx.js
+  - [https://github.com/Nbsaw/notes/issues/41](https://github.com/Nbsaw/notes/issues/41)
 
-[Welcome to Rx.js world](https://github.com/Nbsaw/notes/issues/49)
+- redux 相关
 
-## RN相关
+  - [Hello Redu](https://github.com/Nbsaw/notes/issues/46)
 
-[React Native Explore](https://github.com/Nbsaw/notes/issues/36)
+  - [reselect - selector library for redux](https://github.com/Nbsaw/notes/issues/42)
 
-## vue 相关
+- rx.js
 
-[ue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
+  - [Welcome to Rx.js world](https://github.com/Nbsaw/notes/issues/49)
 
-## js 相关
+- RN相关
 
-[JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
+  - [React Native Explore](https://github.com/Nbsaw/notes/issues/36)
 
-## Java 相关
+- vue 相关
 
-[Spring Mvc 学习笔记 ](https://github.com/Nbsaw/notes/issues/15)
+  - [ue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
 
-[Java Nested Classes](https://github.com/Nbsaw/notes/issues/27)
+- js 相关
 
-[自动装箱的一点小坑 ](https://github.com/Nbsaw/notes/issues/26)
+  - [JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
 
-[Why use getters and setters?](https://github.com/Nbsaw/notes/issues/25)
+- Java 相关
 
-[Java Enum](https://github.com/Nbsaw/notes/issues/21)
+  - [Spring Mvc 学习笔记 ](https://github.com/Nbsaw/notes/issues/15)
 
-[Java8 特性](https://github.com/Nbsaw/notes/issues/20)
+  - [Java Nested Classes](https://github.com/Nbsaw/notes/issues/27)
 
-[Java7 特性](https://github.com/Nbsaw/notes/issues/19)
+  - [自动装箱的一点小坑 ](https://github.com/Nbsaw/notes/issues/26)
 
-[Jdbc & Jpa](https://github.com/Nbsaw/notes/issues/31)
+  - [Why use getters and setters?](https://github.com/Nbsaw/notes/issues/25)
 
-## 协议相关
+  - [Java Enum](https://github.com/Nbsaw/notes/issues/21)
 
-[Http 协议](https://github.com/Nbsaw/notes/issues/17)
+  - [Java8 特性](https://github.com/Nbsaw/notes/issues/20)
 
-[TCP/IP](https://github.com/Nbsaw/notes/issues/18)
+  - [Java7 特性](https://github.com/Nbsaw/notes/issues/19)
 
-## 算法相关
+  - [Jdbc & Jpa](https://github.com/Nbsaw/notes/issues/31)
 
-[新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
+- 协议相关
 
-## 皮这一下很开心
+  - [Http 协议](https://github.com/Nbsaw/notes/issues/17)
 
-[Git Magic](https://github.com/Nbsaw/notes/issues/47)
+  - [TCP/IP](https://github.com/Nbsaw/notes/issues/18)
 
-[Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)
+- 算法相关
 
-[来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
+  - [新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
 
-[一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
+- 皮这一下很开心
 
-## 乱写
+  - [Git Magic](https://github.com/Nbsaw/notes/issues/47)
 
-[杂记](https://github.com/Nbsaw/notes/issues/39)
-[一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)
+  - [Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)
+
+  - [来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
+
+  - [一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
+
+- 乱写
+
+  - [杂记](https://github.com/Nbsaw/notes/issues/39)
+  
+  - [一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)

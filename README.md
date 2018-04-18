@@ -1,13 +1,3 @@
-# 皮这一下很开心
-
-[Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)
-
-[来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
-
-# js 相关
-
-[JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
-
 # react 组件开发
 
 [React-scratch](https://github.com/Nbsaw/notes/issues/51)
@@ -41,6 +31,10 @@
 
 [ue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
 
+# js 相关
+
+[JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
+
 # Java 相关
 
 [Spring Mvc 学习笔记 ](https://github.com/Nbsaw/notes/issues/15)
@@ -57,10 +51,27 @@
 
 [Java7 特性](https://github.com/Nbsaw/notes/issues/19)
 
+[Jdbc & Jpa](https://github.com/Nbsaw/notes/issues/31)
+
+## 协议相关
+
+[Http 协议](https://github.com/Nbsaw/notes/issues/17)
+
+[TCP/IP](https://github.com/Nbsaw/notes/issues/18)
+
 ## 算法相关
 
 [新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
 
+# 皮这一下很开心
+
+[Git Magic](https://github.com/Nbsaw/notes/issues/47)
+
+[Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)
+
+[来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
+
+[一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
 
 # 乱写
 

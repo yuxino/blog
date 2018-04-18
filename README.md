@@ -1,6 +1,8 @@
 ## 记录 📝
 
-emmmm 这里应该要放一句比较有逼格的东西 ... 点这里可以看博客[经历了什么](https://github.com/Nbsaw/notes/blob/master/CHANGELOG.md)
+> Markdown程序员的日常
+
+对博客经历了什么感兴趣可以点[这里](https://github.com/Nbsaw/notes/blob/master/CHANGELOG.md)
 
 ### 目录
 

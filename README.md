@@ -41,6 +41,27 @@
 
 [ue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
 
+# Java 相关
+
+[Spring Mvc 学习笔记 ](https://github.com/Nbsaw/notes/issues/15)
+
+[Java Nested Classes](https://github.com/Nbsaw/notes/issues/27)
+
+[自动装箱的一点小坑 ](https://github.com/Nbsaw/notes/issues/26)
+
+[Why use getters and setters?](https://github.com/Nbsaw/notes/issues/25)
+
+[Java Enum](https://github.com/Nbsaw/notes/issues/21)
+
+[Java8 特性](https://github.com/Nbsaw/notes/issues/20)
+
+[Java7 特性](https://github.com/Nbsaw/notes/issues/19)
+
+## 算法相关
+
+[新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
+
+
 # 乱写
 
 [杂记](https://github.com/Nbsaw/notes/issues/39)

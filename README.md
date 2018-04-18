@@ -1,10 +1,10 @@
-# react 组件开发
+## react 组件开发
 
 [React-scratch](https://github.com/Nbsaw/notes/issues/51)
 
 [React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)
 
-# react 相关
+## react 相关
 
 [React Render 相关](https://github.com/Nbsaw/notes/issues/45)
 
@@ -14,28 +14,28 @@
 
 [https://github.com/Nbsaw/notes/issues/41](https://github.com/Nbsaw/notes/issues/41)
 
-# redux 相关
+## redux 相关
 
 [Hello Redu](https://github.com/Nbsaw/notes/issues/46)
 [reselect - selector library for redux](https://github.com/Nbsaw/notes/issues/42)
 
-# rx.js
+## rx.js
 
 [Welcome to Rx.js world](https://github.com/Nbsaw/notes/issues/49)
 
-# RN相关
+## RN相关
 
 [React Native Explore](https://github.com/Nbsaw/notes/issues/36)
 
-# vue 相关
+## vue 相关
 
 [ue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
 
-# js 相关
+## js 相关
 
 [JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
 
-# Java 相关
+## Java 相关
 
 [Spring Mvc 学习笔记 ](https://github.com/Nbsaw/notes/issues/15)
 
@@ -63,7 +63,7 @@
 
 [新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
 
-# 皮这一下很开心
+## 皮这一下很开心
 
 [Git Magic](https://github.com/Nbsaw/notes/issues/47)
 
@@ -73,7 +73,7 @@
 
 [一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
 
-# 乱写
+## 乱写
 
 [杂记](https://github.com/Nbsaw/notes/issues/39)
 [一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)

@@ -18,7 +18,7 @@ emmmm 这里应该要放一句比较有逼格的东西 ... 点这里可以看博
 
   - [ref={callback} or ref ={string} ? ](https://github.com/Nbsaw/notes/issues/43)
 
-  - [https://github.com/Nbsaw/notes/issues/41](https://github.com/Nbsaw/notes/issues/41)
+  - [recompose 使用方法](https://github.com/Nbsaw/notes/issues/41)
 
 - redux 相关
 

@@ -15,6 +15,8 @@
 - react 相关
 
   - [React render prop Vs Vue slot-scope](https://github.com/Nbsaw/notes/issues/53)
+  
+  - [Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)
 
   - [React Render 相关](https://github.com/Nbsaw/notes/issues/45)
 
@@ -75,12 +77,14 @@
 - 算法相关
 
   - [新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
-
-- 皮这一下很开心
-
+  
+- Git相关
+  
+  - [npm && git submodule 实践](https://github.com/Nbsaw/notes/issues/54)
+  
   - [Git Magic](https://github.com/Nbsaw/notes/issues/47)
 
-  - [Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)
+- 皮这一下很开心
 
   - [来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
 

@@ -46,7 +46,7 @@
 
   - [React render prop Vs Vue slot-scope](https://github.com/Nbsaw/notes/issues/53)
 
-  - [ue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
+  - [vue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
 
 - js 相关
 

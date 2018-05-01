@@ -75,9 +75,21 @@
   - [Http 协议](https://github.com/Nbsaw/notes/issues/17)
 
   - [TCP/IP](https://github.com/Nbsaw/notes/issues/18)
+  
+- 代码艺术
+
+  - [怎样才算是美观的代码](https://github.com/Nbsaw/notes/issues/58)
+  
+  - [代码命名上的思考](https://github.com/Nbsaw/notes/issues/57)
+  
+  - [写一个不会被误解的名字](https://github.com/Nbsaw/notes/issues/56)
 
 - 算法相关
-
+  
+  - [Count-primes](https://github.com/Nbsaw/notes/issues/59)
+  
+  - [对等加密](https://github.com/Nbsaw/notes/issues/60)
+  
   - [新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
   
 - Git相关

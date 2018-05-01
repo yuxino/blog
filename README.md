@@ -103,6 +103,8 @@
   - [来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
 
   - [一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
+  
+  - [一些有用或者有趣的工具](https://github.com/Nbsaw/notes/issues/6)
 
 - 乱写
 

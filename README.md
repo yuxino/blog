@@ -14,6 +14,8 @@
 
 - react 相关
 
+  - [React-in-patterns 笔记](https://github.com/Nbsaw/notes/issues/61)
+
   - [React render prop Vs Vue slot-scope](https://github.com/Nbsaw/notes/issues/53)
   
   - [Nwb 食用方式](https://github.com/Nbsaw/notes/issues/52)

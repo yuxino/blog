@@ -14,6 +14,8 @@
 
 - react 相关
 
+  - [React Context API](https://github.com/Nbsaw/notes/issues/62)
+
   - [React-in-patterns 笔记](https://github.com/Nbsaw/notes/issues/61)
 
   - [React render prop Vs Vue slot-scope](https://github.com/Nbsaw/notes/issues/53)
@@ -101,6 +103,8 @@
   - [Git Magic](https://github.com/Nbsaw/notes/issues/47)
 
 - 皮这一下很开心
+
+  - [npm hook](https://github.com/Nbsaw/notes/issues/63)
 
   - [来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
 

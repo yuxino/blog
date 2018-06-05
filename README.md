@@ -118,5 +118,3 @@
 - react 组件开发
 
   - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
-
-  - [React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)

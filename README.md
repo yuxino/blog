@@ -6,12 +6,6 @@
 
 ### 目录
 
-- react 组件开发
-
-  - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
-
-  - [React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)
-
 - react 相关
 
   - [Styled Components 项目结构](https://github.com/Nbsaw/notes/issues/64)
@@ -54,7 +48,43 @@
 
   - [vue.js 实用技巧](https://github.com/Nbsaw/notes/issues/37)
 
-- js 相关
+- 有点意思
+
+  - [杂记](https://github.com/Nbsaw/notes/issues/39)
+  
+  - [一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)
+  
+- Git相关
+  
+  - [npm && git submodule 实践](https://github.com/Nbsaw/notes/issues/54)
+  
+  - [Git Magic](https://github.com/Nbsaw/notes/issues/47)
+  
+- 皮这一下很开心
+
+  - [npm hook](https://github.com/Nbsaw/notes/issues/63)
+
+  - [来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
+
+  - [一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
+  
+  - [一些有用或者有趣的工具](https://github.com/Nbsaw/notes/issues/6)
+  
+- 协议相关
+
+  - [Http 协议](https://github.com/Nbsaw/notes/issues/17)
+
+  - [TCP/IP](https://github.com/Nbsaw/notes/issues/18)
+  
+- 代码艺术
+
+  - [怎样才算是美观的代码](https://github.com/Nbsaw/notes/issues/58)
+  
+  - [代码命名上的思考](https://github.com/Nbsaw/notes/issues/57)
+  
+  - [写一个不会被误解的名字](https://github.com/Nbsaw/notes/issues/56)
+
+- 杂
 
   - [JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
 
@@ -76,19 +106,6 @@
 
   - [Jdbc & Jpa](https://github.com/Nbsaw/notes/issues/31)
 
-- 协议相关
-
-  - [Http 协议](https://github.com/Nbsaw/notes/issues/17)
-
-  - [TCP/IP](https://github.com/Nbsaw/notes/issues/18)
-  
-- 代码艺术
-
-  - [怎样才算是美观的代码](https://github.com/Nbsaw/notes/issues/58)
-  
-  - [代码命名上的思考](https://github.com/Nbsaw/notes/issues/57)
-  
-  - [写一个不会被误解的名字](https://github.com/Nbsaw/notes/issues/56)
 
 - 算法相关
   
@@ -98,24 +115,8 @@
   
   - [新鲜事排序算法](https://github.com/Nbsaw/notes/issues/14)
   
-- Git相关
-  
-  - [npm && git submodule 实践](https://github.com/Nbsaw/notes/issues/54)
-  
-  - [Git Magic](https://github.com/Nbsaw/notes/issues/47)
+- react 组件开发
 
-- 皮这一下很开心
+  - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
 
-  - [npm hook](https://github.com/Nbsaw/notes/issues/63)
-
-  - [来写一个超级简陋的编辑器](https://github.com/Nbsaw/notes/issues/40)
-
-  - [一些有趣的小东西](https://github.com/Nbsaw/notes/issues/4)
-  
-  - [一些有用或者有趣的工具](https://github.com/Nbsaw/notes/issues/6)
-
-- 乱写
-
-  - [杂记](https://github.com/Nbsaw/notes/issues/39)
-  
-  - [一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)
+  - [React 轮播组件设计](https://github.com/Nbsaw/notes/issues/48)

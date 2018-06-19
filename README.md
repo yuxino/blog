@@ -84,9 +84,10 @@
   
   - [写一个不会被误解的名字](https://github.com/Nbsaw/notes/issues/56)
 
-- 杂
+- Javascript 相关
 
   - [JavaScript prototype 和 __proto__的关系](https://github.com/Nbsaw/notes/issues/24)
+  - [你不知道的location.href](https://github.com/Nbsaw/notes/issues/69)
 
 - Java 相关
 

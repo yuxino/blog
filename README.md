@@ -54,6 +54,8 @@
   
   - [一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)
   
+  - [响应式图片 / Responsive images](https://github.com/Nbsaw/notes/issues/70)
+  
 - Git相关
   
   - [npm && git submodule 实践](https://github.com/Nbsaw/notes/issues/54)
@@ -106,7 +108,6 @@
   - [Java7 特性](https://github.com/Nbsaw/notes/issues/19)
 
   - [Jdbc & Jpa](https://github.com/Nbsaw/notes/issues/31)
-
 
 - 算法相关
   

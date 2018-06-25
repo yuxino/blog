@@ -1,9 +1,3 @@
-## 记录 📝
-
-> Markdown程序员的日常
-
-对博客经历了什么感兴趣可以点[这里](https://github.com/Nbsaw/notes/blob/master/CHANGELOG.md)
-
 ### 目录
 
 - react 相关
@@ -122,3 +116,8 @@
 - react 组件开发
 
   - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
+
+
+## 记录 📝
+
+对博客经历了什么感兴趣可以点[这里](https://github.com/Nbsaw/notes/blob/master/CHANGELOG.md)

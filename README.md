@@ -56,6 +56,8 @@
   
   - [响应式图片 / Responsive images](https://github.com/Nbsaw/notes/issues/70)
   
+  - [使用Object.assign来定义颜色](https://github.com/Nbsaw/notes/issues/71)
+  
 - Git相关
   
   - [npm && git submodule 实践](https://github.com/Nbsaw/notes/issues/54)

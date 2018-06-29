@@ -116,6 +116,10 @@
 - react 组件开发
 
   - [React-scratch](https://github.com/Nbsaw/notes/issues/51)
+  
+- 其他
+  
+  - [前端面试经历以及面试题](https://github.com/Nbsaw/notes/issues/38)
 
 
 ## 记录 📝

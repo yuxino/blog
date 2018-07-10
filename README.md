@@ -36,7 +36,7 @@
 
 - RN相关
 
-  - [React Native Explore](https://github.com/Nbsaw/notes/issues/36)
+  - [React Native Explore[一]](https://github.com/Nbsaw/notes/issues/36)
 
 - vue 相关
 

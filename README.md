@@ -26,7 +26,7 @@
 
   - [redux 源码分析](https://github.com/Nbsaw/notes/issues/55)
 
-  - [Hello Redu](https://github.com/Nbsaw/notes/issues/46)
+  - [Hello Redux](https://github.com/Nbsaw/notes/issues/46)
 
   - [reselect - selector library for redux](https://github.com/Nbsaw/notes/issues/42)
 

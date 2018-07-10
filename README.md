@@ -22,6 +22,8 @@
 
 - redux 相关
 
+   - [Dva 爱你哦 | Love, D.Va!](https://github.com/Nbsaw/notes/issues/73)
+
   - [redux 源码分析](https://github.com/Nbsaw/notes/issues/55)
 
   - [Hello Redu](https://github.com/Nbsaw/notes/issues/46)

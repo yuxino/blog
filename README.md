@@ -22,13 +22,19 @@
 
 - redux 相关
 
-   - [Dva 爱你哦 | Love, D.Va!](https://github.com/Nbsaw/notes/issues/73)
+  - [Dva 爱你哦 | Love, D.Va!](https://github.com/Nbsaw/notes/issues/73)
 
   - [redux 源码分析](https://github.com/Nbsaw/notes/issues/55)
 
   - [Hello Redux](https://github.com/Nbsaw/notes/issues/46)
 
   - [reselect - selector library for redux](https://github.com/Nbsaw/notes/issues/42)
+
+- js 相关
+
+  - [Async-validator 学习](https://github.com/Nbsaw/notes/issues/74)
+
+  - [使用Object.assign来定义颜色](https://github.com/Nbsaw/notes/issues/71)
 
 - rx.js
 
@@ -51,8 +57,6 @@
   - [一些要注意的事情](https://github.com/Nbsaw/notes/issues/11)
   
   - [响应式图片 / Responsive images](https://github.com/Nbsaw/notes/issues/70)
-  
-  - [使用Object.assign来定义颜色](https://github.com/Nbsaw/notes/issues/71)
   
 - Git相关
   

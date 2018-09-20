@@ -1,6 +1,6 @@
 ## 访问
 
-点击[链接](https://nbsaw.github.io/dura/)打开。或者点Issues。
+点击[链接](https://nbsaw.github.io)打开。或者点Issues。
 
 ## 记录 📝
 

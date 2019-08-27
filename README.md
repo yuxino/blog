@@ -8,22 +8,6 @@
 
 ## 索引
 
-### Linux 
-
-- [Linux Tools Quick Tutorial Basic part](https://github.com/yuxino/notes/issues/99)
-
-### Design Pattern
-
-- (依赖反转原则)[https://github.com/yuxino/notes/issues/98]
-
-### Flutter
-
-- [Flutter 初体验](https://github.com/yuxino/notes/issues/94)
-- [Flutter 给IOS数字键盘加上完成按钮](https://github.com/yuxino/notes/issues/93)
-- [在Flutter里面使用Debounce函数](https://github.com/yuxino/notes/issues/92)
-- [Flutter 图标 - 自定义App的图标](https://github.com/yuxino/notes/issues/91)
-- [Flutter 图标 - IOS图标在打开缩放的时候是黑的](https://github.com/yuxino/notes/issues/90)
-
 ### Javascript
 
 - [我是如何去提升我项目构建的速度的](https://github.com/yuxino/notes/issues/87)
@@ -67,10 +51,24 @@
 - [Typescript 动态枚举类型 (或者叫做限定类型)](https://github.com/yuxino/notes/issues/95)
 - [Typescript 小记](https://github.com/yuxino/notes/issues/80)
 
+### Flutter
+
+- [Flutter 初体验](https://github.com/yuxino/notes/issues/94)
+- [Flutter 给IOS数字键盘加上完成按钮](https://github.com/yuxino/notes/issues/93)
+- [在Flutter里面使用Debounce函数](https://github.com/yuxino/notes/issues/92)
+- [Flutter 图标 - 自定义App的图标](https://github.com/yuxino/notes/issues/91)
+- [Flutter 图标 - IOS图标在打开缩放的时候是黑的](https://github.com/yuxino/notes/issues/90)
+
 ### Dva
 
 - [Dva-Loading 用法以及源码分析](https://github.com/yuxino/notes/issues/75)
 - [Dva 爱你哦 | Love, D.Va!](https://github.com/yuxino/notes/issues/73)
+
+### Java
+
+- [Java Nested Classes](https://github.com/yuxino/notes/issues/27)
+- [Why use getters and setters?](https://github.com/yuxino/notes/issues/25)
+- [Spring Mvc 学习笔记](https://github.com/yuxino/notes/issues/15)
 
 ### Code Art
 
@@ -78,11 +76,13 @@
 - [代码命名上的思考](https://github.com/yuxino/notes/issues/57)
 - [写一个不会被误解的名字](https://github.com/yuxino/notes/issues/56)
 
-### Java
+### Linux 
 
-- [Java Nested Classes](https://github.com/yuxino/notes/issues/27)
-- [Why use getters and setters?](https://github.com/yuxino/notes/issues/25)
-- [Spring Mvc 学习笔记](https://github.com/yuxino/notes/issues/15)
+- [Linux Tools Quick Tutorial Basic part](https://github.com/yuxino/notes/issues/99)
+
+### Design Pattern
+
+- [依赖反转原则](https://github.com/yuxino/notes/issues/98)
 
 ### 加密算法
 

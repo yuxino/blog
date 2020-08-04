@@ -99,3 +99,7 @@
 - [杂记](https://github.com/yuxino/notes/issues/39)
 - [前端面试经历以及面试题](https://github.com/yuxino/notes/issues/38)
 - [一些要注意的事情](https://github.com/yuxino/notes/issues/11)
+
+## ⚠️
+
+我达咩了，忘记这里了，这里的目录已经是不同步的了 
